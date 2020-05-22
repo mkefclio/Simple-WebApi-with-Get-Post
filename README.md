@@ -1,7 +1,6 @@
 # Simple-WebApi-with-Get-Post
 
 Writer : Manos Kefalas
-
 Date : 22/5/2020
 
 Title : Simple_WebApi_with_Get-Post
