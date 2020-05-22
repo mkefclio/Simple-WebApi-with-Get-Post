@@ -1,8 +1,11 @@
 # Simple-WebApi-with-Get-Post
 
 Writer : Manos Kefalas
+
 Date : 22/5/2020
+
 Title : Simple_WebApi_with_Get-Post
+
 Subject: This is a simple web api with two methods.
 The first is a post method (/api/values/save/) ,
 and receives a JSON object 
